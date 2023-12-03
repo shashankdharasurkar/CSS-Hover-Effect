@@ -1,4 +1,3 @@
 # CSS-Hover-Effect
 
-To see output please click here.
-https://github.com/shashankdharasurkar/CSS-Hover-Effect/blob/main/CSS-Hover-effect.mp4
+To see output please click here. https://shashankdharasurkar.github.io/CSS-Hover-Effect/
